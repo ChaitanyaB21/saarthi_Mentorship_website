@@ -266,14 +266,14 @@ header .navbar a:hover {
     width: 4rem;
     line-height: 4rem;
     font-size: 2rem;
-    background: var(--pink);
+    background: black;
     border-radius: .5rem;
     margin: .3rem;
     color: #fff;
 }
 
 .teacher .box .share a:hover {
-    background: var(--violet);
+    background: #008EAE;
 }
 
 .price {
